@@ -1,5 +1,5 @@
 
-<img align="right" width="250" height="250" src="https://scontent-bos3-1.cdninstagram.com/v/t51.2885-15/e35/13739623_1572534116383763_1946809500_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=pef_Rmo7zGgAX8x8Zyf&oh=06f6f3331d75aa5aa7a4601235c62ecd&oe=5F369B19">
+<!--<img align="right" width="250" height="250" src="https://scontent-bos3-1.cdninstagram.com/v/t51.2885-15/e35/13739623_1572534116383763_1946809500_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=pef_Rmo7zGgAX8x8Zyf&oh=06f6f3331d75aa5aa7a4601235c62ecd&oe=5F369B19">-->
 
 ## Hi, I'm Cameron! <img src="https://media.giphy.com/media/qSw0qJ14fJP1K/giphy.gif" width="100">
 <p><em>Full Stack Developer</em></p>
