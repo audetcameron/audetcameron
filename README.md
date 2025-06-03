@@ -4,19 +4,20 @@
 ## Hi, I'm Cameron! <img src="https://media.giphy.com/media/qSw0qJ14fJP1K/giphy.gif" width="100">
 <p><em>Full Stack Developer</em></p>
 
-[cameronaudet.com](http://cameronaudet.com)
+
 
 ### Socialize me
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/audetcameron/)](https://twitter.com/audetcameron/)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/audetcameron/)](https://twitter.com/Mechadome_TV/)
 [![GitHub: audetcameron](https://img.shields.io/github/followers/audetcameron?label=follow&style=social)](https://github.com/audetcameron)
 
 
 ## About me
-Love Laravel, mainly PHP and JS builds. VUE/React and yes... still the OG jQuery :).
+I love Laravel, primarily working with PHP and JS builds. VUE/React and yes... still the OG jQuery :).
 Docker or Valet for local dev.
 Github and Gitlab for gitness.
+jekyll and eleventy for static github / netlify hosted pages
 
-Still supporting Drupal, WordPress, Shopify, Magento, Joomla and a bunch of other jazz day to day.
+Still supporting Drupal, WordPress, Shopify, Magento, Joomla, Laravel, Vue, React, Nuxt/Next, Wix, Squarespace, and a bunch of other jazz day to day.
 
 <!--
 **audetcameron/audetcameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
