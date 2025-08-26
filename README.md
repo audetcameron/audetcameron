@@ -4,14 +4,11 @@
 
 
 ### Socialize me
-Discord: audetcameron
-[GitLab](https://gitlab.com/audetcameron/)
-[Codepen]([https://gitlab.com/audetcameron/](https://codepen.io/audetcameron)
-[Stack Overflow]([[https://gitlab.com/audetcameron/](https://codepen.io/audetcameron](https://stackoverflow.com/users/4342031/cameron))
-
-
+Discord: audetcameron <br>
+[GitLab](https://gitlab.com/audetcameron/) <br>
+[Codepen](https://codepen.io/audetcameron) <br>
+[Stack Overflow](https://stackoverflow.com/users/4342031/cameron) <br>
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/audetcameron/)](https://twitter.com/Mechadome_TV/)
-
 [![GitHub: audetcameron](https://img.shields.io/github/followers/audetcameron?label=follow&style=social)](https://github.com/audetcameron)
 
 
